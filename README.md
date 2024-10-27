@@ -15,6 +15,20 @@ Aspiring programmer with a focus on embedded systems and C programming, passiona
 ### [C_BasicCode](https://github.com/bhargavi-gudur/C_BasicCode)
 A collection of beginner-friendly C programs that cover fundamental programming concepts, providing a solid foundation for those new to the language.
 
+### [Cpp_BasicCode](https://github.com/bhargavi-gudur/Cpp_BasicCode)
+Basic C++ programs aimed at helping beginners learn the basics of C++.
+
+### [geometry_equation](https://github.com/bhargavi-gudur/geometry_equation)
+A collection of simple C++ programs for learning and practicing basic coding concepts in geometry and mathematics.
+
+### [Portfolio](https://github.com/bhargavi-gudur/Portfolio)
+My personal portfolio repository containing details about my skills, projects, and goals.
+
+### [Documentation](https://github.com/bhargavi-gudur/Documentation)
+Documentation examples showcasing best practices for organizing and writing technical documentation.
+
+
+
 
 ## 🛠️ Technologies and Tools
 
