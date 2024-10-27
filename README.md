@@ -4,11 +4,11 @@ Aspiring programmer with a focus on embedded systems and C programming, passiona
 
 ## 🔹 About Me
 - **Current Role**: Senior Software and Firmware Engineer
-- **Experience**: Over 3 years in embedded firmware, Battery Management Systems (BMS), and telematics development
+- **Experience**: Over 3.6+years experience in senior software engineer and  embedded firmware enginner  worked on Battery Management Systems (BMS) and telematics development.
 - **Specialization**: 
   - Designing and testing embedded systems
   - Implementing bootloaders and memory mappings for STM32 microcontrollers
-  - Conducting comprehensive CAN testing and managing BMS operations
+  - Conducting comprehensive CAN testing and managing BMS operations.
 
 ## 🔹 Projects Showcase
 
@@ -26,8 +26,6 @@ My personal portfolio repository containing details about my skills, projects, a
 
 ### [Documentation](https://github.com/bhargavi-gudur/Documentation)
 Documentation examples showcasing best practices for organizing and writing technical documentation.
-
-
 
 
 ## 🛠️ Technologies and Tools
