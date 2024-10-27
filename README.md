@@ -5,7 +5,7 @@ Aspiring programmer learning coding fundamentals with a focus on embedded system
 
 ## 🔹 About Me
 - **Current Role**: Senior Software and Firmware Engineer
-- **Experience**: 3+ years in embedded firmware, BMS, and telematics development
+- **Experience**: 3.6+ years worked as a senior software engineer and embedded firmware, BMS, and telematics development
 - **Skills**: C, C++, Embedded Systems, STM32, CAN Protocol, Git
 
 ## 🔹 My Projects
