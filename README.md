@@ -1,7 +1,7 @@
 # Portfolio
 # Hi there, I'm Gandla Bhargavi 👋
 
-Aspiring programmer learning coding fundamentals with a focus on embedded systems and C programming.
+Aspiring programmer learning coding fundamentals with a focus on c++ and C programming.
 
 ## 🔹 About Me
 - **Current Role**: Senior Software and Firmware Engineer
