@@ -1,39 +1,25 @@
-# Portfolio
-# Hi there, I'm Gandla Bhargavi 👋
+# Hi, I'm Gandla Bhargavi 👋
 
-Aspiring programmer learning coding fundamentals with a focus on c++ and C programming.
+Aspiring programmer learning coding fundamentals with a focus on embedded systems and C programming.
 
-## 🔹 About Me
-- **Current Role**: Senior Software and Firmware Engineer
-- **Experience**: 3.6+ years worked as a senior software engineer and embedded firmware, BMS, and telematics development
-- **Skills**: C, C++, Embedded Systems, STM32, CAN Protocol, Git
+## 🛠️ Technologies
 
-## 🔹 My Projects
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### [C_BasicCode](https://github.com/bhargavi-gudur/C_BasicCode)  
-A collection of basic C programs for beginners, covering fundamental concepts and providing a solid foundation for further learning.
+## 📫 How to Reach Me
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Portfolio**: [Your Portfolio Link](https://your-portfolio-link.com)
+- **Resume**: [View My Resume](https://drive.google.com/your-resume-link)
 
-### [Cpp_BasicCode](https://github.com/bhargavi-gudur/Cpp_BasicCode)  
-Simple C++ programs to learn and practice coding fundamentals, ideal for building a foundation in C++.
+## ⚙️ GitHub Analytics
 
-### [c_cpp_cmake_basiccode](https://github.com/bhargavi-gudur/c_cpp_cmake_basiccode) (Private)
-A combination of C and C++ programs designed to work with CMake for an integrated coding experience.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi-gudur&layout=compact&theme=dark)
 
-### [geometry_equation](https://github.com/bhargavi-gudur/geometry_equation)  
-A collection of programs focused on geometry equations, allowing users to practice math-based coding concepts in C++.
-
-### [Documentation](https://github.com/bhargavi-gudur/Documentation) (Private)
-A private repository for storing documentation and learning resources related to various coding projects.
-
-## 🔹 Technologies and Tools
-- **Languages**: C, C++
-- **Tools**: BusMaster, JIRA, Doxygen, Git, Plastic SCM
-- **Platforms**: Embedded Systems, STM32
-
-## 🔹 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/gandla-bhargavi-14887681/)
-- [Naukri](https://www.naukri.com/mnuser/profile?id=&altresid)
-
-## 🔹 Goals
-Continuously improving my skills in embedded systems and exploring new challenges in software development.
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhargavi-gudur&show_icons=true&theme=dark)
