@@ -1,6 +1,6 @@
 # Hi, I'm Gandla Bhargavi 👋
 
-Aspiring programmer with a focus on embedded systems and C programming, passionate about creating innovative solutions in firmware and telematics.
+Aspiring programmer with a focus on embedded systems and C  ,CPP programming, passionate about creating innovative solutions in firmware and telematics.
 
 ## 🔹 About Me
 - **Current Role**: Senior Software and Firmware Engineer
