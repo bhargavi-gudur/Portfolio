@@ -1,10 +1,10 @@
 # Hi, I'm Gandla Bhargavi 👋
 
-Aspiring programmer with a focus on embedded systems and C  ,CPP programming, passionate about creating innovative solutions in firmware and telematics.
+Senior Software Engineer with 4 years of experience in battery management systems (BMS) and telematics in the automotive domain. Expertise in embedded software development, STM32 microcontrollers, and system integration. Contributed 2.5 years on BMS, enhancing firmware reliability, real-time monitoring, and system performance. With 1.6 years in telematics, developed safety features, implemented GTest for validation, and mentored junior engineers, improving team efficiency by 20%. Actively seeking opportunities for professional growth and to contribute to innovative projects that drive organizational success..
 
 ## 🔹 About Me
 - **Current Role**: Senior Software and Firmware Engineer
-- **Experience**: Over 3.6+years experience in senior software engineer and  embedded firmware enginner  worked on Battery Management Systems (BMS) and telematics development.
+- **Experience**: Over 4 years experience in senior software engineer and  embedded firmware enginner  worked on Battery Management Systems (BMS) and telematics development.
 - **Specialization**: 
   - Designing and testing embedded systems
   - Implementing bootloaders and memory mappings for STM32 microcontrollers
