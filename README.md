@@ -1,15 +1,14 @@
-![image](https://github.com/user-attachments/assets/9618ed7f-8c57-44d9-a3e6-c7fd8ec5daa4)# Hi, I'm Gandla Bhargavi 👋
-
+# Hi, I'm Gandla Bhargavi 👋
 Senior Software Engineer with 4 years of experience in battery management systems (BMS) and telematics in the automotive domain. Expertise in embedded software development, STM32 microcontrollers, and system integration. Contributed 2.5 years on BMS, enhancing firmware reliability, real-time monitoring, and system performance. With 1.6 years in telematics, developed safety features, implemented GTest for validation, and mentored junior engineers, improving team efficiency by 20%. Actively seeking opportunities for professional growth and to contribute to innovative projects that drive organizational success..
 
 ## 🔹 About Me
-- **Current Role**: Senior Software and Firmware Engineer
-- **Experience**: over 4 years of experience as a Senior Software Engineer in telematics automotive at Tata Elxsi, specializing in feature development, and as an Embedded Firmware Engineer at Green Cubes Technology, I have honed my skills. 
+- **Current Role**: Senior Software Engineer
+- **Experience**: over 4 years of experience as a Senior Software Engineer in telematics automotive at Tata Elxsi, specializing in feature development, and as an Embedded Firmware Engineer at Green Cubes       Technology, I have honed my skills. 
 - **Specialization**: 
-  - Conducting comprehensive CAN testing and managing BMS operations.
-  - Feature Development in Telematics Automotive: Bringing innovative features to life in the automotive industry.
-  - Developing and Porting Bootloaders: Ensuring secure and efficient firmware updates.
-  - CAN Protocol Testing: Conducting comprehensive tests to ensure reliable communication in Battery Management Systems (BMS) and other automotive domains.
+    - Conducting comprehensive CAN testing and managing BMS operations.
+    - Feature Development in Telematics Automotive: Bringing innovative features to life in the automotive industry.
+    - Developing and Porting Bootloaders: Ensuring secure and efficient firmware updates.
+    - CAN Protocol Testing: Conducting comprehensive tests to ensure reliable communication in Battery Management Systems (BMS) and other automotive domains.
 
 ## 🔹 Projects Showcase
 
