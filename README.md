@@ -4,11 +4,12 @@ Senior Software Engineer with 4 years of experience in battery management system
 
 ## 🔹 About Me
 - **Current Role**: Senior Software and Firmware Engineer
-- **Experience**: Over 4 years experience in senior software engineer and  embedded firmware enginner  worked on Battery Management Systems (BMS) and telematics development.
+- **Experience**: over 4 years of experience as a Senior Software Engineer in telematics automotive at Tata Elxsi, specializing in feature development, and as an Embedded Firmware Engineer at Green Cubes Technology, I have honed my skills. 
 - **Specialization**: 
-  - Designing and testing embedded systems
-  - Implementing bootloaders and memory mappings for STM32 microcontrollers
   - Conducting comprehensive CAN testing and managing BMS operations.
+  - Feature Development in Telematics Automotive: Bringing innovative features to life in the automotive industry.
+  - Developing and Porting Bootloaders: Ensuring secure and efficient firmware updates.
+  - CAN Protocol Testing: Conducting comprehensive tests to ensure reliable communication in Battery Management Systems (BMS) and other automotive domains.
 
 ## 🔹 Projects Showcase
 
