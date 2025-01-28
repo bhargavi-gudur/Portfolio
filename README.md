@@ -31,9 +31,6 @@ Documentation examples showcasing best practices for organizing and writing tech
 This project is a simple HTML website. It includes a basic structure with a header, footer, and content sections. It demonstrates fundamental HTML tags and elements.
 
 ## 🛠️ Technologies and Tools
-
-## 🛠️ Technologies and Tools
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
