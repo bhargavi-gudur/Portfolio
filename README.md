@@ -1,4 +1,4 @@
-# Hi, I'm Gandla Bhargavi 👋
+![image](https://github.com/user-attachments/assets/9618ed7f-8c57-44d9-a3e6-c7fd8ec5daa4)# Hi, I'm Gandla Bhargavi 👋
 
 Senior Software Engineer with 4 years of experience in battery management systems (BMS) and telematics in the automotive domain. Expertise in embedded software development, STM32 microcontrollers, and system integration. Contributed 2.5 years on BMS, enhancing firmware reliability, real-time monitoring, and system performance. With 1.6 years in telematics, developed safety features, implemented GTest for validation, and mentored junior engineers, improving team efficiency by 20%. Actively seeking opportunities for professional growth and to contribute to innovative projects that drive organizational success..
 
@@ -41,6 +41,7 @@ This project is a simple HTML website. It includes a basic structure with a head
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Doxygen](https://img.shields.io/badge/Doxygen-documentation-blue?style=for-the-badge)
+![html](![image](https://github.com/user-attachments/assets/0b52cea4-9760-489b-aa02-621f36efea61)
 
 ## 📫 Connect with Me
 - **LinkedIn**: [Gandla Bhargavi](https://www.linkedin.com/in/gandla-bhargavi-14887681/)
