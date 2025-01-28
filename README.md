@@ -27,7 +27,7 @@ My personal portfolio repository containing details about my skills, projects, a
 ### [Documentation](https://github.com/bhargavi-gudur/Documentation)
 Documentation examples showcasing best practices for organizing and writing technical documentation.
 
-### [Html sample}(https://github.com/bhargavi-gudur/htmlMiniProject.git)
+### [Html sample](https://github.com/bhargavi-gudur/htmlMiniProject.git)
 This project is a simple HTML website. It includes a basic structure with a header, footer, and content sections. It demonstrates fundamental HTML tags and elements.
 
 ## 🛠️ Technologies and Tools
