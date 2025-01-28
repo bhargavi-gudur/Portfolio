@@ -33,6 +33,8 @@ This project is a simple HTML website. It includes a basic structure with a head
 
 ## 🛠️ Technologies and Tools
 
+## 🛠️ Technologies and Tools
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
@@ -41,7 +43,7 @@ This project is a simple HTML website. It includes a basic structure with a head
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Doxygen](https://img.shields.io/badge/Doxygen-documentation-blue?style=for-the-badge)
-![html]([image](https://github.com/user-attachments/assets/0b52cea4-9760-489b-aa02-621f36efea61)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 📫 Connect with Me
 - **LinkedIn**: [Gandla Bhargavi](https://www.linkedin.com/in/gandla-bhargavi-14887681/)
