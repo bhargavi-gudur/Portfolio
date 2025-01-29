@@ -3,7 +3,8 @@ Senior Software Engineer with 4 years of experience in battery management system
 
 ## 🔹 About Me
 - **Current Role**: Senior Software Engineer
-- **Experience**: over 4 years of experience as a Senior Software Engineer in telematics automotive at Tata Elxsi, specializing in feature development, and as an Embedded Firmware Engineer at Green Cubes       Technology, I have honed my skills. 
+- **Experience**: over 4 years of experience as a Senior Software Engineer in telematics automotive at Tata Elxsi, specializing in feature development, and as an Embedded Firmware Engineer at Green Cubes       Technology, I have honed my skills.
+- 
 - **Specialization**: 
     - Conducting comprehensive CAN testing and managing BMS operations.
     - Feature Development in Telematics Automotive: Bringing innovative features to life in the automotive industry.
@@ -48,7 +49,6 @@ This project is a simple HTML website. It includes a basic structure with a head
 ## ⚙️ GitHub Analytics
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi-gudur&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhargavi-gudur&show_icons=true&theme=dark)
 
 ## 🔹 Goals
 I'm committed to advancing my skills in embedded systems, exploring innovative challenges in firmware development, and staying current with advancements in telematics and BMS technologies.
