@@ -19,6 +19,12 @@ A collection of beginner-friendly C programs that cover fundamental programming 
 ### [Cpp_BasicCode](https://github.com/bhargavi-gudur/Cpp_BasicCode)
 Basic C++ programs aimed at helping beginners learn the basics of C++.
 
+### [Basic python concept](https://github.com/bhargavi-gudur/BasicPythonConcepts.git)
+This repository contains basic python programs for beginners. These programs cover fundamental concepts and provide a solid foundation for further learning.
+
+### [Html sample](https://github.com/bhargavi-gudur/htmlMiniProject.git)
+This project is a simple HTML website. It includes a basic structure with a header, footer, and content sections. It demonstrates fundamental HTML tags and elements.
+
 ### [geometry_equation](https://github.com/bhargavi-gudur/geometry_equation)
 A collection of simple C++ programs for learning and practicing basic coding concepts in geometry and mathematics.
 
@@ -27,10 +33,6 @@ My personal portfolio repository containing details about my skills, projects, a
 
 ### [Documentation](https://github.com/bhargavi-gudur/Documentation)
 Documentation examples showcasing best practices for organizing and writing technical documentation.
-
-### [Html sample](https://github.com/bhargavi-gudur/htmlMiniProject.git)
-This project is a simple HTML website. It includes a basic structure with a header, footer, and content sections. It demonstrates fundamental HTML tags and elements.
-
 
 ## 🛠️ Technologies and Tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -42,6 +44,7 @@ This project is a simple HTML website. It includes a basic structure with a head
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Doxygen](https://img.shields.io/badge/Doxygen-documentation-blue?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📫 Connect with Me
 - **LinkedIn**: [Gandla Bhargavi](https://www.linkedin.com/in/gandla-bhargavi-14887681/)
