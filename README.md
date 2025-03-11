@@ -24,9 +24,6 @@ Basic C++ programs aimed at helping beginners learn the basics of C++.
 ### [geometry_equation](https://github.com/bhargavi-gudur/geometry_equation)
 A collection of simple C++ programs for learning and practicing basic coding concepts in geometry and mathematics.
 
-### [Portfolio](https://github.com/bhargavi-gudur/Portfolio)
-My personal portfolio repository containing details about my skills, projects, and goals.
-
 ### [Documentation](https://github.com/bhargavi-gudur/Documentation)
 Documentation examples showcasing best practices for organizing and writing technical documentation.
 
@@ -57,7 +54,6 @@ This repository contains basic python programs for beginners. These programs cov
 
 ## 📫 Connect with Me
 - **LinkedIn**: [Gandla Bhargavi](https://www.linkedin.com/in/gandla-bhargavi-14887681/)
-- **Naukri**: [Profile](https://www.naukri.com/mnuser/profile?id=&altresid)
 -  **Resume**: [View My Resume](https://github.com/bhargavi-gudur/Portfolio/blob/main/GandlaBHargavi_update_resume.pdf)
 
 ## ⚙️ GitHub Analytics
