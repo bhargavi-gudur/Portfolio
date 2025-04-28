@@ -54,7 +54,7 @@ This repository contains basic python programs for beginners. These programs cov
 
 ## 📫 Connect with Me
 - **LinkedIn**: [Gandla Bhargavi](https://www.linkedin.com/in/gandla-bhargavi-14887681/)
--  **Resume**: [View My Resume](https://github.com/bhargavi-gudur/Portfolio/blob/main/GandlaBHargavi.pdf)
+-  **Resume**: [View My Resume](https://github.com/bhargavi-gudur/Portfolio/blob/main/GandlaBhargavi.pdf)
 
 ## ⚙️ GitHub Analytics
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi-gudur&layout=compact&theme=dark)
