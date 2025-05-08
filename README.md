@@ -1,6 +1,6 @@
 # Hi, I'm Gandla Bhargavi 👋
 
-Senior Software Engineer with 4 years of experience in battery management systems (BMS) and telematics in the automotive domain. Expertise in embedded software development, STM32 microcontrollers, and system integration. Contributed 2.5 years on BMS, enhancing firmware reliability, real-time monitoring, and system performance. With 1.6 years in telematics, developed safety features, implemented GTest for validation, and mentored junior engineers, improving team efficiency by 20%. Actively seeking opportunities for professional growth and to contribute to innovative projects that drive organizational success.
+Senior Software Engineer with 4 years of experience in battery management systems (BMS) and telematics in the automotive domain.Embedded software development, STM32 microcontrollers, and system integration. Contributed 2.5 years on BMS, enhancing firmware reliability, real-time monitoring, and system performance. With 1.6 years in telematics, developed safety features, implemented GTest for validation, and mentored junior engineers, improving team efficiency by 20%. Actively seeking opportunities for professional growth and to contribute to innovative projects that drive organizational success.
 
 ## 🔹 About Me
 
@@ -52,9 +52,23 @@ This repository contains basic python programs for beginners. These programs cov
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+## 📜 Certifications
+- **Problem Solving (Basic) – HackerRank**: [View Certificate](https://www.hackerrank.com/profile/gandlabhargavi6)
+- **Certified Great Learning - ChatGPT for Coders**
+- **Embedded Systems and Automotive Domain Certification**
+- **Certified Log2Base2 C Programming**
+- **Certified Log2Base2 Python Programming**
+- **C Beginners Programming**
+- **Embedded Systems with Mbed**
+- **Jupyter Notebook Certification**
+- **Getting Started with GitHub Copilot**
+
 ## 📫 Connect with Me
 - **LinkedIn**: [Gandla Bhargavi](https://www.linkedin.com/in/gandla-bhargavi-14887681/)
--  **Resume**: [View My Resume](https://github.com/bhargavi-gudur/Portfolio/blob/main/GandlaBhargavi.pdf)
+- **GitHub**: [My Projects](https://github.com/bhargavi-gudur)
+- **Portfolio**: [View My Work](https://bhargavi-gudur.github.io/Portfolio/#-connect-with-me)
+- **HackerRank**: [Check My Profile](https://www.hackerrank.com/profile/gandlabhargavi6)
+- **Resume**: [View My Resume](https://github.com/bhargavi-gudur/Portfolio/blob/main/GandlaBhargavi.pdf)
 
 ## ⚙️ GitHub Analytics
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi-gudur&layout=compact&theme=dark)
