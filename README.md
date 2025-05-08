@@ -1,63 +1,54 @@
-# Hi, I'm Gandla Bhargavi 👋
+Hi, I'm Gandla Bhargavi 👋
+Senior Software Engineer with 4+ years of experience specializing in Battery Management Systems (BMS) and Telematics in the automotive industry. Adept at embedded software development, STM32 microcontrollers, and system integration. Passionate about firmware reliability, real-time monitoring, and optimizing automotive technologies for efficiency and safety.
 
-Senior Software Engineer with 4 years of experience in battery management systems (BMS) and telematics in the automotive domain. Expertise in embedded software development, STM32 microcontrollers, and system integration. Contributed 2.5 years on BMS, enhancing firmware reliability, real-time monitoring, and system performance. With 1.6 years in telematics, developed safety features, implemented GTest for validation, and mentored junior engineers, improving team efficiency by 20%. Actively seeking opportunities for professional growth and to contribute to innovative projects that drive organizational success.
+🔹 Professional Experience
+Tata Elxsi (May 2023 - Oct 2024)
+Telematics Application Development: Designed and validated automotive telematics features for vehicle diagnostics, safety, and connectivity.
 
-## 🔹 About Me
+GNSS Model Validation: Developed automated validation using GTest, reducing testing time by 15%.
 
-- **Current Role**: Senior Software Engineer
-- **Experience**: Over 4 years of experience as a Senior Software Engineer in telematics automotive at Tata Elxsi, specializing in feature development, and as an Embedded Firmware Engineer at Green Cubes Technology, I have honed my skills.
+Embedded Software & System Design: Designed component architectures to optimize performance and scalability.
 
-- **Specialization**:
-    - Conducting comprehensive CAN testing and managing BMS operations.
-    - Feature Development in Telematics Automotive: Bringing innovative features to life in the automotive industry.
-    - Developing and Porting Bootloaders: Ensuring secure and efficient firmware updates.
-    - CAN Protocol Testing: Conducting comprehensive tests to ensure reliable communication in Battery Management Systems (BMS) and other automotive domains.
+Mentoring & Process Optimization: Guided junior engineers, improving team efficiency by 20%.
 
-## 🔹 Projects Showcase
+Green Cubes Technology (Oct 2018 - Mar 2021)
+BMS Development: Engineered firmware for battery management systems, enabling real-time battery monitoring and fault detection.
 
-### [C_BasicCode](https://github.com/bhargavi-gudur/C_BasicCode)
-A collection of beginner-friendly C programs that cover fundamental programming concepts, providing a solid foundation for those new to the language.
+Bootloader Development: Designed bootloaders and STM32 memory mapping for reliable system updates.
 
-### [Cpp_BasicCode](https://github.com/bhargavi-gudur/Cpp_BasicCode)
-Basic C++ programs aimed at helping beginners learn the basics of C++.
+CAN Protocol Implementation: Conducted testing and integration for automotive communication.
 
-### [geometry_equation](https://github.com/bhargavi-gudur/geometry_equation)
-A collection of simple C++ programs for learning and practicing basic coding concepts in geometry and mathematics.
+🔹 Technical Skills
+Programming: C, C++, Embedded C, Python
 
-### [Documentation](https://github.com/bhargavi-gudur/Documentation)
-Documentation examples showcasing best practices for organizing and writing technical documentation.
+Embedded Systems: STM32 Microcontrollers, CAN Protocol, Bootloader Development
 
-### [Html sample](https://github.com/bhargavi-gudur/htmlMiniProject.git)
-This project is a simple HTML website. It includes a basic structure with a header, footer, and content sections. It demonstrates fundamental HTML tags and elements.
+Tools: BusMaster, Git, JIRA, Doxygen, Visual Studio Code, CodeBlocks, Keil, VirtualBox
 
-### [Basic python concept](https://github.com/bhargavi-gudur/BasicPythonConcepts.git)
-This repository contains basic python programs for beginners. These programs cover fundamental concepts and provide a solid foundation for further learning.
+Automotive Expertise: Battery Management Systems (BMS), Telematics Feature Development
 
-## 🛠️ Tools
-![BusMaster](https://img.shields.io/badge/BusMaster-tool-orange?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Doxygen](https://img.shields.io/badge/Doxygen-documentation-blue?style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CodeBlocks](https://img.shields.io/badge/CodeBlocks-00CCFF?style=for-the-badge)
-![Keil](https://img.shields.io/badge/Keil-007ACC?style=for-the-badge)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Basic Linux Terminal](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)
+🔹 Projects & Contributions
+🔗 C Basic Code
+Beginner-friendly C programs covering fundamental concepts.
 
-## 🛠️ Technologies
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![CAN Protocol](https://img.shields.io/badge/CAN-Protocol-blue?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+🔗 Cpp Basic Code
+Essential C++ programming exercises for learners.
 
-## 📫 Connect with Me
-- **LinkedIn**: [Gandla Bhargavi](https://www.linkedin.com/in/gandla-bhargavi-14887681/)
--  **Resume**: [View My Resume](https://github.com/bhargavi-gudur/Portfolio/blob/main/GandlaBhargavi.pdf)
+🔗 Geometry Equations
+Mathematical and geometry coding concepts in C++.
 
-## ⚙️ GitHub Analytics
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi-gudur&layout=compact&theme=dark)
+🔗 HTML Mini Project
+Simple website structure demonstrating fundamental HTML elements.
 
-## 🔹 Goals
-I'm committed to advancing my skills in embedded systems, exploring innovative challenges in firmware development, and staying current with advancements in telematics and BMS technologies.
+🔗 Basic Python Concepts
+Python programs introducing essential concepts for beginners.
+
+📫 Connect with Me
+LinkedIn: Gandla Bhargavi
+
+GitHub: My Projects
+
+Portfolio: View My Work
+
+🎯 Career Goals
+Aspiring to innovate in embedded systems, firmware development, and automotive technologies. Seeking impactful opportunities to optimize battery management and telematics solutions.
